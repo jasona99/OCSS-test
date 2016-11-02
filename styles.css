@@ -6,10 +6,10 @@ body {
 	margin:80px 80px 100px 100px;
 }
 div { border:1px solid black; }
-#div1 {width: 49.9%; height: 45%; float: left; }
-#div2 {width: 49.9%; height: 45%; float: right; }
-#div3 {width: 49.9%; height: 45%; float: left; }
-#div4 {width: 49.9%; height: 45%; float: right; }
+#div1 {width: 49.85%; height: 47%; float: left; }
+#div2 {width: 49.85%; height: 47%; float: right; }
+#div3 {width: 49.85%; height: 47%; float: left; }
+#div4 {width: 49.85%; height: 47%; float: right; }
 #fixedheader {
 	position:relative;
 	top:0px;
