@@ -17,7 +17,7 @@ div { }
 	width:100%;
 	color:#CCC;
 	background:#333;
-	padding:20px;
+	padding:1px;
 }
 #fixedfooter {
 	position:fixed;
