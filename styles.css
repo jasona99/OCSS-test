@@ -11,7 +11,7 @@ div { }
 #div3 {width: 50%; height: 50%; float: left; }
 #div4 {width: 50%; height: 50%; float: left; }
 #fixedheader {
-	position:fixed;
+	position:relative;
 	top:0px;
 	left:0px;
 	width:100%;
@@ -20,7 +20,7 @@ div { }
 	padding:20px;
 }
 #fixedfooter {
-	position:fixed;
+	position:relative;
 	bottom:0px;
 	left:0px;
 	width:100%;
