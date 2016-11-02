@@ -5,7 +5,7 @@ body {
 	background-color: #CCC;
 	margin:80px 80px 100px 100px;
 }
-div { }
+div { border:1px solid black; }
 #div1 {width: 50%; height: 45%; float: left; }
 #div2 {width: 50%; height: 45%; float: left; }
 #div3 {width: 50%; height: 45%; float: left; }
