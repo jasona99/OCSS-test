@@ -20,7 +20,7 @@ div { }
 	padding:20px;
 }
 #fixedfooter {
-	position:relative;
+	position:fixed;
 	bottom:0px;
 	left:0px;
 	width:100%;
